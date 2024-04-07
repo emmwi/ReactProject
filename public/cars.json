@@ -1,0 +1,32 @@
+[
+  {
+    "id": "blue-car",
+    "frontImg": "blue.jpg",
+    "backImg": "multicolor.jpg"
+  },
+  {
+    "id": "yellow-car",
+    "frontImg": "yellow.jpg",
+    "backImg": "multicolor.jpg"
+  },
+  {
+    "id": "red-car",
+    "frontImg": "red.jpg",
+    "backImg": "multicolor.jpg"
+  },
+  {
+    "id": "black-car",
+    "frontImg": "black.jpg",
+    "backImg": "multicolor.jpg"
+  },
+  {
+    "id": "brown-car",
+    "frontImg": "brown.jpg",
+    "backImg": "multicolor.jpg"
+  },
+  {
+    "id": "green-car",
+    "frontImg": "green.jpg",
+    "backImg": "multicolor.jpg"
+  }
+]

@@ -1,0 +1,19 @@
+#info-container {
+  max-width: 80vw;
+  padding: 1rem 0rem;
+  margin: auto;
+}
+
+.accordion-header .accordion-button {
+  background: #f4c369 !important;
+  border: 3px solid black !important;
+}
+
+.accordion {
+  max-width: 80vw;
+  margin: auto;
+}
+
+.accordion-body {
+  background: #ffe6ad !important;
+}
